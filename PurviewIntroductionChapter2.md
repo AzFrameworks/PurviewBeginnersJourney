@@ -1,6 +1,6 @@
 ## Chapter 2: Discovery Begins with Classification
 
-
+![Purview Introduction Chapter 2](pics/PurviewIntroductionChapter2.png)
 
 Our first stop is Discover & Classify.
 
