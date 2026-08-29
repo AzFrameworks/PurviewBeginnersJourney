@@ -13,8 +13,9 @@ That is the world Microsoft Purview is designed for.
 Microsoft describes Purview as a portfolio spanning data governance, data security, and data compliance. Its solutions include Data Map, Unified Catalog, Information Protection, Data Loss Prevention, Data Security Posture Management, Insider Risk Management, Audit, eDiscovery, Records Management, Compliance Manager, and related capabilities. The Microsoft Purview portal provides a common entry point for these areas, although the features visible to a user depend on permissions, subscriptions, and configuration.
 
 [Microsoft Purview documentation](https://learn.microsoft.com/en-us/purview/)
-[Learn about the Microsoft Purview portal
-](https://learn.microsoft.com/en-us/purview/purview-portal)
+
+https://learn.microsoft.com/en-us/purview/purview-portal
+
 Microsoft Purview can feel overwhelming at first. There are many solutions. Some discover data. Some protect it. Others investigate activity, retain records, or help with regulatory assessments.
 
 The good news is that you do not need to learn everything at once.
