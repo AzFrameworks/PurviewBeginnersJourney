@@ -23,3 +23,31 @@ Purview connects capabilities that address these questions. It does not remove t
 A helpful way to frame the challenge is to separate visibility from control. An organization first needs a shared picture of its important information, then clear decisions about ownership, access, protection, retention, and investigation. Purview supports that sequence so teams can address the same business problem from different professional perspectives without working in isolation.
 
 For example, a project team may store customer contracts in several places. Sales knows the customers. Legal knows the obligations. Security sees sharing activity. Purview helps these teams build one view of the same information and agree on the right controls.
+
+\
+\
+[Purview Introduction Start Page](/Readme.md)
+
+[Purview Introduction Chapter 1](/PurviewIntroductionChapter1.md)
+
+[Purview Introduction Chapter 2](/PurviewIntroductionChapter2.md)
+
+[Purview Introduction Chapter 3](/PurviewIntroductionChapter3.md)
+
+[Purview Introduction Chapter 4](/PurviewIntroductionChapter4.md)
+
+[Purview Introduction Chapter 5](/PurviewIntroductionChapter5.md)
+
+[Purview Introduction Chapter 6](/PurviewIntroductionChapterä6.md)
+
+[Purview Introduction Chapter 7](/PurviewIntroductionChapter7.md)
+
+[Purview Introduction Chapter 8](/PurviewIntroductionChapter8.md)
+
+[Purview Introduction Chapter 9](/PurviewIntroductionChapter9.md)
+
+[Purview Introduction Chapter 10](/PurviewIntroductionChapter10.md)
+
+[Purview Introduction Chapter 11](/PurviewIntroductionChapter11.md)
+
+[Purview Introduction Chapter 12](/PurviewIntroductionChapter12.md)
