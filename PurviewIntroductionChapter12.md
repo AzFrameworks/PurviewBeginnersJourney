@@ -87,6 +87,8 @@ It indicates progress against mapped improvement actions and controls. It does n
 
 # Curated Microsoft Learn Journey
 
+![Purview Introduction Learning](pics/PurviewIntroductionLearning.png)
+
 ## Beginner
 
 Begin with the portfolio and the two introductory security and compliance modules.
