@@ -1,13 +1,17 @@
 ## Chapter 2: Discovery Begins with Classification
 
+
+
 Our first stop is Discover & Classify.
 
 Imagine a warehouse containing millions of unmarked boxes. Before deciding which boxes require locks, you need to know what is inside them. Purview classification plays that role.
 
 Purview can identify sensitive content through sensitive information types, often called SITs. These detect recognizable information such as financial, identity, health, credential, or privacy-related data. Detection can use patterns, regular expressions, checksums, keywords, and validation logic. Trainable classifiers take a different approach: they learn from examples of content that represents a business category. Classification results can then be used by labels, DLP, records controls, risk analytics, and reporting.
 
-All credentials sensitive information types
-Microsoft Purview data security solutions
+[All credentials sensitive information types](https://learn.microsoft.com/purview/sit-defn-all-creds)
+
+[Microsoft Purview data security solutions](https://learn.microsoft.com/en-us/purview/purview-security)
+
 A useful beginner distinction is this:
 
 Classification describes the content. A sensitivity label expresses how the organization wants that content handled.
