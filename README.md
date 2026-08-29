@@ -1,4 +1,4 @@
-#The Microsoft Purview Ecosystem for Beginners
+# The Microsoft Purview Ecosystem for Beginners
 
 A beginner-friendly guide to data governance, data security, and compliance
 
