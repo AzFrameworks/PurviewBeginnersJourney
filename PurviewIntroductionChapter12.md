@@ -91,17 +91,17 @@ It indicates progress against mapped improvement actions and controls. It does n
 
 Begin with the portfolio and the two introductory security and compliance modules.
 
--       [Microsoft Purview documentation](https://learn.microsoft.com/en-us/purview/)
+- [Microsoft Purview documentation](https://learn.microsoft.com/en-us/purview/)
 
--       [Microsoft Learn for Microsoft Purview](https://learn.microsoft.com/en-us/training/purview/)
+- [Microsoft Learn for Microsoft Purview](https://learn.microsoft.com/en-us/training/purview/)
 
--       [Describe the data security solutions of Microsoft Purview](https://learn.microsoft.com/en-us/training/modules/describe-purview-data-solutions/)
+- [Describe the data security solutions of Microsoft Purview](https://learn.microsoft.com/en-us/training/modules/describe-purview-data-solutions/)
 
--       [Describe the data compliance solutions of Microsoft Purview](https://learn.microsoft.com/en-us/training/modules/describe-purview-risk-compliance-governance/)
+- [Describe the data compliance solutions of Microsoft Purview](https://learn.microsoft.com/en-us/training/modules/describe-purview-risk-compliance-governance/)
 
--       [Introduction to Microsoft Security, Compliance, and Identity](https://learn.microsoft.com/en-us/training/courses/sc-900t00)
+- [Introduction to Microsoft Security, Compliance, and Identity](https://learn.microsoft.com/en-us/training/courses/sc-900t00)
 
--       [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
 
 **Intermediate**
 
