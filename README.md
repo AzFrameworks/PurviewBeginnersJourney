@@ -14,7 +14,7 @@ Microsoft describes Purview as a portfolio spanning data governance, data securi
 
 [Microsoft Purview documentation](https://learn.microsoft.com/en-us/purview/)
 
-https://learn.microsoft.com/en-us/purview/purview-portal
+[Learn about the Microsoft Purview portal](https://learn.microsoft.com/en-us/purview/purview-portal)
 
 Microsoft Purview can feel overwhelming at first. There are many solutions. Some discover data. Some protect it. Others investigate activity, retain records, or help with regulatory assessments.
 
