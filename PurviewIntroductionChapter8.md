@@ -1,4 +1,4 @@
-## Chapter 8: Managing Information over Time
+# Chapter 8: Managing Information over Time
 
 Data that is never deleted becomes a risk. Data deleted too early can create legal, operational, or regulatory problems.
 
