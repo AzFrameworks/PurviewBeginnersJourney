@@ -1,5 +1,7 @@
 # Chapter 9: Data Map and Unified Catalog
 
+![Purview Introduction Chapter 9](pics/PurviewIntroductionChapter9.png)
+
 So far, much of our journey has followed files, messages, users, and activities. Purview also governs structured and analytical data.
 
 Data Map is the technical metadata foundation. It captures metadata from analytics, SaaS, operational, hybrid, on-premises, and multicloud systems. Scanning and lineage ingestion populate information about assets, schemas, classifications, owners, relationships, and data movement. The map stores metadata rather than copying the underlying business data.
