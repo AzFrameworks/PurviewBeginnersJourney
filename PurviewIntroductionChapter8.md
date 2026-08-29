@@ -1,5 +1,7 @@
 # Chapter 8: Managing Information over Time
 
+![Purview Introduction Chapter 8](pics/PurviewIntroductionChapter8.png)
+
 Data that is never deleted becomes a risk. Data deleted too early can create legal, operational, or regulatory problems.
 
 Data Lifecycle Management applies retention and deletion requirements to supported content. Retention policies can apply broadly to locations or populations. Retention labels can express more specific rules for individual items or categories.
