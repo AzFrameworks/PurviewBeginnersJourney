@@ -1,4 +1,6 @@
 # Chapter 1: The Business Problem
+
+![Purview Introduction Chapter 1](pics/PurviewIntroductionChapter1.png)
  
 Organizations rarely suffer from a lack of data. They suffer from a lack of context and control.
 
