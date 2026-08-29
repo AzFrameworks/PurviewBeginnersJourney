@@ -64,7 +64,7 @@ It indicates progress against mapped improvement actions and controls. It does n
 
 [Working with improvement actions in Compliance Manager](https://learn.microsoft.com/en-us/purview/compliance-manager-improvement-actions)
 
-# ini-Glossary
+# Mini-Glossary
 
 | **Term** | **Beginner meaning** |
 | --- | --- |
