@@ -35,3 +35,5 @@ These areas are available through the unified Microsoft Purview portal. The port
  
 
 The architecture illustration is best treated as a map of a city, not as a simple product diagram. Some areas help you inventory the city. Some control traffic. Some protect important buildings. Others provide records of what happened. The following tour connects those areas into one story.
+
+[Purview Introduction Chapter 1](/PurviewIntroductionChapter1.md)
