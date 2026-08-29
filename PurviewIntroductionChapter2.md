@@ -23,3 +23,32 @@ Discovery also includes visibility. Content Explorer, Activity Explorer, classif
 For beginners, the key lesson is that classification creates a common language. When business, security, compliance, and data teams use the same terms for important information, policies become easier to explain and apply. Good classification therefore begins with a manageable set of meaningful categories rather than an attempt to label everything at once.
 
 For example, a document may contain an employee identification number. A sensitive information type can detect the pattern. A business category can explain that the document belongs to human resources. Together, these signals give the organization a clearer basis for protection.
+
+\
+\
+[Purview Introduction Start Page](/Readme.md)
+
+[Purview Introduction Chapter 1](/PurviewIntroductionChapter1.md)
+
+[Purview Introduction Chapter 2](/PurviewIntroductionChapter2.md)
+
+[Purview Introduction Chapter 3](/PurviewIntroductionChapter3.md)
+
+[Purview Introduction Chapter 4](/PurviewIntroductionChapter4.md)
+
+[Purview Introduction Chapter 5](/PurviewIntroductionChapter5.md)
+
+[Purview Introduction Chapter 6](/PurviewIntroductionChapterä6.md)
+
+[Purview Introduction Chapter 7](/PurviewIntroductionChapter7.md)
+
+[Purview Introduction Chapter 8](/PurviewIntroductionChapter8.md)
+
+[Purview Introduction Chapter 9](/PurviewIntroductionChapter9.md)
+
+[Purview Introduction Chapter 10](/PurviewIntroductionChapter10.md)
+
+[Purview Introduction Chapter 11](/PurviewIntroductionChapter11.md)
+
+[Purview Introduction Chapter 12](/PurviewIntroductionChapter12.md)
+
