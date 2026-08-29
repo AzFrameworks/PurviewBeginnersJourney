@@ -2,7 +2,7 @@
 
 ![Purview Introduction Chapter 12](pics/PurviewIntroductionChapter12.png)
 
-**Architects**
+## Architects
 
 Design the information model before the control model. Identify important data, locations, owners, personas, legal requirements, identities, devices, and application paths. Then map the required Purview capabilities and supporting Entra, Intune, Defender, Microsoft 365, Fabric, and AI services.
 
