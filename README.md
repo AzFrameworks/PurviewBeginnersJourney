@@ -25,9 +25,10 @@ The simplest definition is:
 Microsoft Purview is a portfolio of solutions that helps organizations understand, govern, protect, and manage data.
 
 It covers three connected areas:
-•	Data governance: Understand what data exists, where it is, who owns it, and whether it can be trusted.
-•	Data security: Identify sensitive data and protect it from inappropriate access, sharing, or loss.
-•	Data compliance: Retain evidence, investigate activity, manage records, and support regulatory obligations.
+
+-	Data governance: Understand what data exists, where it is, who owns it, and whether it can be trusted.
+-	Data security: Identify sensitive data and protect it from inappropriate access, sharing, or loss.
+-	Data compliance: Retain evidence, investigate activity, manage records, and support regulatory obligations.
 
 These areas are available through the unified Microsoft Purview portal. The portal provides a common entry point for solutions, settings, search, permissions, and learning resources.
 
