@@ -1,5 +1,7 @@
 # Chapter 11: Purview in the Age of AI
 
+![Purview Introduction Chapter 11](pics/PurviewIntroductionChapter11.png)
+
 AI increases the value of trusted data, but it can also amplify existing access and oversharing problems.
 
 Microsoft 365 Copilot respects the permissions and data-protection controls already present in Microsoft 365. It does not grant a user new access merely because the user asks a question. However, if people already have access to content that was shared too broadly, AI can make that content easier to discover and combine. That is why access hygiene, labels, DLP, retention, and audit form the foundation of AI readiness.
