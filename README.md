@@ -2,6 +2,8 @@
 
 A beginner-friendly guide to data governance, data security, and compliance
 
+![Purview Ecosystem](pics/Purview Ecosystem.png)
+
 Imagine joining a company on your first day. You receive access to email, Teams, SharePoint, applications, reports, databases, and perhaps Microsoft 365 Copilot. Very quickly, you create documents, share information, download files, build reports, and ask AI assistants for help.
 
 Now imagine the same activity multiplied across thousands of people, hundreds of applications, several clouds, and many years.
