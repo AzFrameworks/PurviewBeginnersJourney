@@ -1,3 +1,4 @@
+![Purview Introduction Chapter 5](pics/PurviewIntroductionChapter5.png)
 
 
 \
